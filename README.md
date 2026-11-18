@@ -7,13 +7,6 @@
 
 A TypeScript CLI RSS feed aggregator backed by PostgreSQL that fetches, stores, and browses blog posts from across the web.
 
-### 🛠️ Built With
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Tech Stack" />
-  </a>
-</p>
-
 ## ✨ Features
 - **Multi-User Management:** Register and switch between local CLI user profiles.
 - **Feed Subscriptions:** Add, follow, and unfollow RSS feeds stored in PostgreSQL.
